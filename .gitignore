@@ -1,0 +1,6 @@
+# feito por: maquinzz
+build/
+*.o
+*.obj
+*.exe
+.DS_Store
